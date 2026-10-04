@@ -20,6 +20,7 @@ Me **VERY LOVE** open source.
   - justcode.py (just main code)
   - README.md (Am I really going to say that?!)
   - LICENSE (Love GPLv2 (^_^) )
+  - app.apk
 
 # Depends
 - Python
