@@ -1,5 +1,5 @@
 # TTFCA
-The hobby project, terminal. Don't professional and very basic. Writed with Python.
+The hobby project, terminal. Don't professional. Writed with Python.
 
 ### How does it works
 TTFCA working steps basic:
