@@ -21,6 +21,7 @@ Me **VERY LOVE** open source.
   - README.md (Am I really going to say that?!)
   - LICENSE (Love GPLv2 (^_^) )
   - app.apk
+  - buildozer.spec (I will create the APK using Buildozer.)
 
 # Depends
 - Python
